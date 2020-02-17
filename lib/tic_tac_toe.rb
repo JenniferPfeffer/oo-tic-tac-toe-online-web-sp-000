@@ -36,6 +36,7 @@ def turn_count
   return turn 
 end
 def turn
-  puts "Please choose a number 1-9"
+  puts "Please choose a number 1-9:" 
+  
     
 end
