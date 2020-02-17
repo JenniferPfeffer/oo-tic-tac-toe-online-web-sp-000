@@ -42,6 +42,9 @@ def turn
   if valid_move?(index) 
     player_token = current_player 
     move(index, player_token) 
+    display_board 
+  else 
+    turn 
     
     
 end
