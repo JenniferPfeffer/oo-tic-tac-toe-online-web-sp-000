@@ -94,7 +94,7 @@ def over?
     return false 
   end 
 end 
-def winner? 
+def winner
   index = []
   index = won?
   if index == false
