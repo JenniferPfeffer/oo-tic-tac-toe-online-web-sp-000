@@ -45,6 +45,9 @@ def turn
     display_board 
   else 
     turn 
-    
+  end 
+end  
+def current_player 
+  
     
 end
