@@ -14,7 +14,7 @@ WIN_COMBINATIONS = [[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4
     user_input.to_i - 1
   end
 
-def move(board, index, current_player = "X")
+def move( index, current_player = "X")
   @board[index] = current_player
 end
 
