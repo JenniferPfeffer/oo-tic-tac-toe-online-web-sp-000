@@ -87,7 +87,8 @@ def draw?
     return false
   end
 end
-def winner? 
+def over? 
+  if won? || 
   
 
     
