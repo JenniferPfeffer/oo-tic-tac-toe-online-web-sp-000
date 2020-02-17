@@ -35,7 +35,7 @@ def turn_count
   end 
   return turn 
 end
-def turn(input) 
+def turn
   
     
 end
