@@ -37,6 +37,7 @@ def turn_count
 end
 def turn
   puts "Please choose a number 1-9:" 
-  user_input = gets.chomp
+  user_input = gets.chomp 
+  index = 
     
 end
