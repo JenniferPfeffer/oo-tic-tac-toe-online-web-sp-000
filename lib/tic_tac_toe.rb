@@ -58,7 +58,8 @@ def turn
     turn
   end
 end
-
+def won? 
+  
 
     
 end
